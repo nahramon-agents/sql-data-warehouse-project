@@ -117,5 +117,4 @@ Hi there! I'm **Nahuel Ramon**, I’m an IT professional looking forward to shar
 
 Let's stay in touch! Feel free to connect with me on the following platforms:
 
-[<img width="512" height="512" alt="linkedin" src="https://github.com/user-attachments/assets/d74b9f3a-b4dd-4ced-818f-37aea3eac812" />
-](https://linkedin.com/in/nahuelramon)
+[[<img width="512" height="512" alt="linkedin" src="https://github.com/user-attachments/assets/d74b9f3a-b4dd-4ced-818f-37aea3eac812" />](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nahuelramon)
